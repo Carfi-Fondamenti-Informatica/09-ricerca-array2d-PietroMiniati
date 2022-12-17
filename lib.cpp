@@ -1,4 +1,4 @@
-
+#include "lib.cpp"
 int bodyguard(char lista[10][20], char nome[20]){
   int i = 0;
   int j = 0;
